@@ -145,5 +145,5 @@ rand.data4<-function(n=10,theta=5,s=5,plot.tree=TRUE){
   plot(descendants,pch=15,ylim=c(0,max(descendants)))
   points(alleles,col='red',pch=16)
   
-  
+  #test
 }
